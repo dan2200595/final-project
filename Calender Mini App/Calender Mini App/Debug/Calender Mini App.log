@@ -1,0 +1,13 @@
+﻿  Calendar.c
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(197,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(198,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(199,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(372,31): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(372,23): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(375,43): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(375,35): warning C4024: 'display_Reminders': different types for formal and actual parameter 1
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(381,31): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(381,23): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(387,54): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[50]'
+C:\Users\hkhkh\Desktop\Calender Mini App\Calender Mini App\Calendar.c(387,46): warning C4024: 'display_Reminders_onDate': different types for formal and actual parameter 1
+  Calender Mini App.vcxproj -> C:\Users\hkhkh\Desktop\Calender Mini App\Debug\Calender Mini App.exe
